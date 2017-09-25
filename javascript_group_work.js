@@ -62,3 +62,7 @@ function printMaxMinAveArr(arr){
 var tom = [1,2,4,6,7,8,3,-6,50];
 
 printMaxMinAveArr(tom);
+
+var sam = [22,33,-18,1]
+
+printMaxMinAveArr(sam);
